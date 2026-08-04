@@ -1,0 +1,638 @@
+<!DOCTYPE html><html lang="ar-sa" dir="rtl"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="/osn/webapp/stylesheet/fonts/FrutigerLTArabic-55Roman.woff2" as="font" crossorigin="anonymous" type="font/woff2"/><link rel="preload" href="/osn/webapp/stylesheet/fonts/FrutigerLTArabic-65Bold.woff2" as="font" crossorigin="anonymous" type="font/woff2"/><link rel="preload" as="image" href="/osn/webapp/images/icons/menu/osn-logo.svg"/><link rel="stylesheet" href="/_next/static/chunks/120837c565f78f71.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/chunks/fcf8be9fb5238f3e.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/e486f43878096201.js"/><script src="/_next/static/chunks/112f346e31f991df.js" async=""></script><script src="/_next/static/chunks/c462f7822a1dbf4e.js" async=""></script><script src="/_next/static/chunks/94bde6376cf279be.js" async=""></script><script src="/_next/static/chunks/6740f161f60c6ab5.js" async=""></script><script src="/_next/static/chunks/turbopack-14cbb6d8ff745619.js" async=""></script><script src="/_next/static/chunks/ff1a16fafef87110.js" async=""></script><script src="/_next/static/chunks/247eb132b7f7b574.js" async=""></script><script src="/_next/static/chunks/7f27f9630a007744.js" async=""></script><script src="/_next/static/chunks/5732029b1c54dfed.js" async=""></script><script src="/_next/static/chunks/efe244e9db82305e.js" async=""></script><script src="/_next/static/chunks/36991b775e421e52.js" async=""></script><script src="/_next/static/chunks/c358aceaa4a41bc7.js" async=""></script><script src="/_next/static/chunks/b10db5f5c2ccecde.js" async=""></script><script src="/_next/static/chunks/708c05660567ea97.js" async=""></script><script src="/_next/static/chunks/b8c70e98fbe30c5a.js" async=""></script><script src="/_next/static/chunks/d68616630ffe70ec.js" async=""></script><script src="/_next/static/chunks/da9381996ce307d9.js" async=""></script><script src="/_next/static/chunks/5c9b6221c2fb5544.js" async=""></script><script src="/_next/static/chunks/4e8dd632a1600de3.js" async=""></script><link rel="preload" href="/osn/webapp/stylesheet/fonts-ar.css?v=1" as="style"/><meta name="format-detection" content="telephone=no, date=no, email=no, address=no"/><link rel="preload" href="/osn/webapp/stylesheet/fonts/FrutigerLTArabic-55Roman.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><link rel="preload" href="/osn/webapp/stylesheet/fonts/FrutigerLTArabic-65Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><link rel="stylesheet" href="/osn/webapp/stylesheet/fonts-ar.css?v=1"/><script>(self.__next_s=self.__next_s||[]).push([0,{"children":"\n              (function() {\n                var isDev = true;\n                if (!isDev) {\n                  ['log', 'warn', 'debug', 'info', 'trace'].forEach(function(m) {\n                    console[m] = function() {};\n                  });\n                }\n              })();\n            ","id":"disable-console"}])</script><script src="/_next/static/chunks/a6dad97d9634a72d.js" noModule=""></script></head><body class="antialiased"><div hidden=""><!--$?--><template id="B:0"></template><!--/$--></div><div style="display:flex;justify-content:center;align-items:center;position:fixed;top:0px;left:0;width:100vw;height:100vh;z-index:999999999;box-sizing:border-box;background-color:#000;touch-action:none;min-height:100dvh;overflow:hidden;color:rgba(255, 255, 255, 0.60)"><div class="uk-text-center fontsize-12-16 fontweight-600 text-grey"><div class="uk-margin-bottom"><img alt="Loading" loading="lazy" width="70" height="70" decoding="async" data-nimg="1" style="color:transparent" srcSet="/_next/image?url=%2Fosn%2Fwebapp%2Fimages%2Fios-loading.gif&amp;w=96&amp;q=75 1x, /_next/image?url=%2Fosn%2Fwebapp%2Fimages%2Fios-loading.gif&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2Fosn%2Fwebapp%2Fimages%2Fios-loading.gif&amp;w=256&amp;q=75"/></div></div></div><div class="min-h-screen flex flex-col"><div class="relative top-0 start-0 end-0 z-50 w-full min-h-[44px] max-h-[85px] border-b border-neutral-200/20"><div class="max-w-[1800px] mx-auto md:px-3 lg:px-16 flex justify-between items-center min-h-[44px] lg:min-h-[85px]"><div class="flex justify-start items-center gap-16"><a href="/ar-sa/osntv" class="w-[105px] h-[44px] relative overflow-hidden" title="أفضل ترفيه تلفزيوني - أفلام ومسلسلات تلفزيونية"><img alt="OSNtv" width="96" height="64" decoding="async" data-nimg="1" class="absolute start-0 top-0 h-full w-auto" style="color:transparent" src="/osn/webapp/images/icons/menu/osn-logo.svg"/></a><div class="flex justify-start items-center gap-7"><a href="/ar-sa/content-guide"><div class="h-10 p-2 flex justify-start items-center gap-2 rounded-lg cursor-pointer"><div class="text-white text-lg font-light leading-normal">دليل المحتوى</div></div></a><a href="/ar-sa/watch/tv-schedule"><div class="h-10 p-2 flex justify-start items-center gap-2 rounded-lg cursor-pointer"><div class="text-white text-lg font-light leading-normal">دليل التلفزيون</div></div></a><a href="/ar-sa/osntv#faq"><div class="h-10 p-2 flex justify-start items-center gap-2 rounded-lg cursor-pointer"><div class="text-white text-lg font-light leading-normal">الأسئلة الشائعة</div></div></a></div></div><div class="py-2 flex justify-center items-start gap-4"><div class="flex items-center gap-1 rounded-lg cursor-pointer h-10 p-2 gap-2 "><span class="fi fi-sa text-2xl" style="font-size:1rem;line-height:1"></span><div class="text-white text-lg font-light leading-normal">UAE</div><img alt="Chevron Down" loading="lazy" width="10" height="10" decoding="async" data-nimg="1" style="color:transparent" src="/osn/webapp/images/icons/menu/chevron-down.svg"/></div><div class="h-10 p-2 flex justify-start items-center gap-2 rounded-lg cursor-pointer"><div class="text-white text-lg font-light leading-10 font-faricy">English</div></div><a href="/ar-sa/myosntv-app"><div class="self-stretch px-5 py-2 bg-black/20 rounded-xl outline outline-1 outline-offset-[-1px] outline-white flex justify-end items-center gap-2.5 cursor-pointer"><div class="text-center text-white text-base font-semibold leading-normal">header_button_myosntv</div></div></a></div></div></div><main class="flex-1 pt-4"><div class="uk-scope tv-schedule-page"><link rel="stylesheet" href="/osn/webapp/stylesheet/fonts-ar.min.css?v=1"/><link rel="stylesheet" href="/osn/webapp/stylesheet/osntv-ar.min.css?v=4"/><style>
+          html {
+            overflow-y: scroll;
+          }
+          footer {
+            display: none;
+          }
+          .main-container {
+            position: relative;
+            display: flex;
+            flex-direction: row;
+            width: 100vw;
+          }
+
+          .lottie-spinner {
+              width: 48px;
+              height: 48px;
+            }
+
+            .txt-label {
+              color: rgba(255, 255, 255, 0.60) !important;
+            }
+
+            .txt-white {
+              color: rgba(255, 255, 255, 1) !important;
+            }
+
+            .txt-e0 {
+              color: #E0E0E0;
+            }
+
+          @media (max-width: 960px) {
+            .main-container:before {
+              content: '';
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 34px;
+              background: #0F0F1B;
+              background: linear-gradient(180deg, rgba(15, 15, 27, 1) 0%, rgba(21, 20, 51, 0.79) 50%, rgba(33, 31, 97, 0.4) 100%);
+            }
+          }
+
+          .channel-container {
+            width: 116px;
+            z-index: 11;
+          }
+
+          .channel-container {
+            padding-right: 2px;
+          }
+
+          .ar .channel-container {
+            padding-right: 0;
+            padding-left: 2px;
+          }
+
+          .program-grid-container {
+            position: relative;
+            width: calc(100vw - 116px);
+            overflow: hidden;
+            overflow-x: scroll;
+            user-select: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            -webkit-overflow-scrolling: touch;
+            scroll-behavior: smooth;
+          }
+
+          .ar .program-grid-container {
+            /* Remove direction: rtl to avoid scroll inversion issues */
+          }
+
+          .program-grid-container:active {
+            cursor: grabbing;
+          }
+
+          .program-grid-container::-webkit-scrollbar {
+            display: none;
+          }
+
+          .scroll-arrow {
+            position: fixed;
+            top: 52vh;
+            width: 64px;
+            height: 64px;
+            background-color: rgba(255, 255, 255, 0.10) !important;
+            backdrop-filter: blur(8px) !important;
+            border-radius: 50% !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            z-index: 11;
+            transition: all 0.2s linear;
+            cursor: pointer;
+          }
+            
+          .scroll-arrow:hover {
+            background-color: rgba(82, 80, 187, 0.9);
+          }
+
+          .en .scroll-arrow-right {
+            right: 36px;
+          }
+
+          .ar .scroll-arrow-right {
+            left: 36px;
+          }
+
+          .en .scroll-arrow-left {
+            left: 206px;
+          }
+
+          .ar .scroll-arrow-left {
+            right: 206px;
+          }
+
+          .current-time-line {
+            position: absolute;
+            top: 0;
+            width: 2px;
+            height: 100%;
+            background-color: rgba(204, 58, 65, 1);
+            z-index: 11;
+            pointer-events: none;
+          }
+
+          .ar .current-time-line {
+            left: auto;
+          }
+
+          .current-time-line:after {
+            position: absolute;
+            top: 0;
+            left: -2px;
+            display: block;
+            width: 6px;
+            height: 5px;
+            content: '';
+            background: rgba(204, 58, 65, 1);
+          }
+
+          .current-time-line:before {
+            position: absolute;
+            top: 5px;
+            left: -2px;
+            display: block;
+            width: 0;
+            height: 0;
+            content: '';
+            border-left: 3px solid transparent;
+            border-right: 3px solid transparent;
+            border-top: 4px solid rgba(204, 58, 65, 1);
+          }
+
+          .ar .current-time-line:after {
+            left: auto;
+            right: -2px;
+          }
+
+          .ar .current-time-line:before {
+            left: auto;
+            right: -2px;
+            border-left: 3px solid transparent;
+            border-right: 3px solid transparent;
+            border-top: 4px solid rgba(204, 58, 65, 1);
+          }
+
+          .current-time-label {
+            position: absolute;
+            top: 11px;
+            left: -18px;
+            display: flex;
+            justify-content: center;
+            width: 37px;
+            height: 18px;
+            padding-top: 2px;
+            box-sizing: border-box;
+            line-height: 1;
+            white-space: nowrap;
+            background-color: rgba(204, 58, 65, 1);
+            border-radius: 2px;
+          }
+
+          .ar .current-time-label {
+            left: auto;
+            right: -18px;
+          }
+
+          .time-intervals-container {
+            display: flex;
+            margin-bottom: 1px;
+          }
+
+          .ar .time-intervals-container {
+            /* Remove direction: rtl to avoid scroll inversion issues */
+          }
+
+          .time-interval {
+            position: relative;
+            width: 300px;
+            min-width: 300px;
+            height: 34px;
+            box-sizing: border-box;
+            display: flex;
+            align-items: center;
+            padding-top: 2px;
+          }
+
+          .time-interval:after {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 1px;
+            height: 7px;
+            content: '';
+            background: rgba(255, 255, 255, 0.60);
+          }
+
+          .ar .time-interval:after {
+            left: auto;
+            right: 0;
+          }
+
+          @media (max-width: 640px) {
+            .time-interval {
+              min-width: 100px;
+              width: 100px;
+            }
+          }
+
+          @media (min-width: 641px) and (max-width: 1280px) {
+            .time-interval {
+              min-width: 200px;
+              width: 200px;
+            }
+          }
+
+          .program-row {
+            display: flex;
+            height: 70px;
+          }
+
+          .program-item,
+          .loading-container {
+            display: flex;
+            height: 70px;
+            padding: 1px;
+            overflow: hidden;
+            cursor: pointer;
+            box-sizing: border-box;
+            border: 1px solid hsl(var(--background));
+            border-radius: 6px;
+            transition: all 0.2s ease-out;
+            position: relative;
+          }
+
+          .program-item-current {
+            background-color: rgba(42, 41, 102, 1);
+          }
+
+          .program-item-other,
+          .loading-container {
+            background-color: rgba(23, 22, 54, 1);
+          }
+
+          .program-content {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            padding: 6px 12px;
+            overflow: hidden;
+            box-sizing: border-box;
+            transition: all 100ms;
+            z-index: 1;
+          }
+
+          .program-title {
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            margin-bottom: 3px;
+          }
+
+          .en .program-title {
+            line-height: 1;
+          }
+
+          .program-time {
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+          }
+
+          .en .program-time {
+            line-height: 1;
+          }
+
+          .go-to-now-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 34px;
+            padding: 0 8px;
+            box-sizing: border-box;
+          }
+
+          .go-to-now-button {
+            padding: 4px 12px;
+            background-color: rgba(204, 58, 65, 1);
+            color: white;
+            border: none;
+            border-radius: 2px;
+            cursor: pointer;
+            box-sizing: border-box;
+            position: absolute;
+            z-index: 39;
+            min-width: 105px;
+          }
+
+          .go-to-now-button.is-left {
+            left: 5px;
+          }
+
+          .go-to-now-button.is-right {
+            right: 5px;
+          }
+          
+          @media (min-width: 1280px) {
+            .main-container {
+              width: 98.5vw;
+            }
+
+            .lottie-spinner {
+              width: 80px;
+              height: 80px;
+            }
+
+            .go-to-now-button {
+              min-width: 150px;
+              border-radius: 8px;
+              padding: 8px 12px;
+            }
+
+            .channel-container {
+              width: 170px;
+            }
+
+            .go-to-now-container {
+              height: 46px;
+              padding: 0 12px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }
+
+            .time-interval {
+              height: 46px;
+              font-weight: 600;
+              align-items: flex-start;
+              padding-top: 4px;
+            }
+
+            .time-interval:after {
+              content: '';
+              width: 2px;
+              height: 16px;
+              left: 2px;
+            }
+
+            .ar .time-interval:after {
+              left: auto;
+              right: 2px;
+            }
+
+            .current-time-label {
+              width: 41px;
+              left: -20px;
+              height: 22px;
+              border-radius: 4px;
+              padding-top: 4px;
+            }
+
+            .ar .current-time-label {
+              left: auto;
+              right: -20px;
+            }
+
+            .program-grid-container {
+              width: calc(100vw - 170px);
+            }
+
+            .program-title {
+              margin-bottom: 8px;
+            }
+
+            .program-item,
+            .loading-container {
+              border-radius: 12px;
+              border-width: 2px;
+            }
+
+            .program-item:hover {
+              overflow: visible;
+              z-index: 10;
+            }
+
+            .program-item:hover .program-content {
+              box-shadow: 0px 0px 2px 0px rgb(255, 255, 255);
+              z-index: 10;
+              position: relative;
+              border-radius: 12px;
+            }
+
+            .program-item-gap:hover .program-content {
+              box-shadow: none;
+            }
+
+            /*.program-item-current:hover .program-content {
+              background-color: rgba(42, 41, 102, 1);
+            }
+
+            .program-item-other:hover .program-content {
+              background-color: rgba(23, 22, 54, 1);
+            }*/
+
+            .program-content {
+              justify-content: center;
+            }
+          }
+
+          @media (min-width: 1600px) {
+            .main-container {
+              width: 99vw;
+            }
+          }
+
+          /*.program-tooltip {
+            position: relative;
+            display: inline-block;
+          }*/
+
+          .program-tooltip .tooltiptext {
+            visibility: hidden;
+            width: max-content;
+            background-color: #1C1F33;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 10px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            margin-bottom: 5px;
+            font-size: 13px;
+            box-shadow: 0px 4px 8px 0px #0A0A0AB2;
+            white-space: nowrap;
+          }
+
+          /*.program-tooltip .tooltiptext::after {
+            content: " ";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #1C1F33 transparent transparent transparent;
+          }*/
+
+          @media (min-width: 768px) {
+            .program-tooltip:hover .tooltiptext {
+              visibility: visible;
+            }
+          }
+
+          /* 1280 screens */
+          @media (min-width: 1140px) and (max-width: 1366px) {
+            .uk-section {
+              padding-top: 12px;
+              padding-bottom: 18px;
+            }
+            .uk-h1, h1 {
+              font-size: 1.65rem;
+            }
+            .time-interval,
+            .go-to-now-container {
+              height: 34px !important;
+            }
+            .time-interval:after {
+              height: 11px;
+            }
+            .program-content {
+                padding: 4px 12px;
+            }
+            .channel-item,
+            .program-row,
+            .program-item, .loading-container {
+              height: 54px !important;
+            }
+            .channel-item img {
+              max-height: 42px !important;
+            }
+            .program-title {
+              margin-bottom: 4px;
+            }
+            .fontsize-12-14 {
+              font-size: 12px !important;
+            }
+            .scroll-arrow {
+              top: 57.4vh;
+              width: 48px;
+              height: 48px;
+            }
+          }
+        </style><div lang="ar" class="ar"><div class="main-container"><div class="channel-container"><div class="go-to-now-container"><span class="fontsize-12-18 fontweight-600@s text-white">tvguide_date_label_today, 4 أغسطس</span></div></div><div class="program-grid-container"><div class="current-time-line" style="left:0px"><div class="fontsize-12 fontweight-600@s text-white current-time-label">tvguide_tag_label_now</div></div><div class="time-intervals-container"><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">12:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">12:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">1:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">1:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">2:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">2:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">3:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">3:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">4:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">4:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">5:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">5:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">6:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">6:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">7:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">7:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">8:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">8:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">9:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">9:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">10:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">10:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">11:00am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">11:30am</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">12:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">12:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">1:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">1:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">2:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">2:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">3:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">3:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">4:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">4:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">5:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">5:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">6:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">6:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">7:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">7:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">8:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">8:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">9:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">9:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">10:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">10:30pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">11:00pm</div><div class="fontsize-12-18 fontweight-600@s time-interval txt-label" style="min-width:300px;width:300px">11:30pm</div></div></div><div class="uk-visible@m"></div></div><style>
+  .uk-scope .drawer-modal-content {
+    max-height: 95vh;
+}
+    .uk-scope .uk-button {
+    border-left: 0 !important;
+    border-right: 0 !important;
+    }
+        .divider-list li {
+          position: relative;
+          color: rgba(255, 255, 255, 0.60);
+        }
+          .uk-modal-close-outside,
+          .uk-button {
+              display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border: inset !important;
+    border-width: 1px !important;
+    border-color: rgba(255, 255, 255, 0.2) !important;
+          }
+        .divider-list li:after {
+          content: '';
+          position: absolute;
+          top: 50%;
+          transform: translateY(-50%);
+          width: 2px;
+          height: 80%;
+          background-color: rgba(255, 255, 255, 0.60);
+          border-radius: 2px;
+        }
+          .en .divider-list li:after {
+          right: -9.5px;
+          }
+          .ar .divider-list li:after {
+            left: -9.5px;
+          }
+        .divider-list li:first-child:after,
+        .divider-list li:last-child:after {
+          display: none;
+        }
+
+        .border-block {
+          color: rgba(255, 255, 255, 0.60);
+          box-sizing: border-box;
+          font-weight: 600;
+          border: 1.5px solid rgba(255, 255, 255, 0.60);
+          border-radius: 4px;
+          display: block;
+          padding: 0px 5px;
+        }
+
+        .uk-button {
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .program-on-demand {
+          background-color: rgba(33, 32, 80, 1);
+          border-radius: 8px;
+          padding: 8px;
+          direction: ltr;
+        }
+
+        @media (min-width: 640px) {
+          .divider-list li:after {
+            height: 100%;
+          }
+          .en .divider-list li:after {
+            right: -13px;
+          }
+          .ar .divider-list li:after {
+            left: -13px;
+          }
+            .uk-button {
+        border-top: 1px solid rgba(255, 255, 255, 0);
+        border-bottom: 1px solid rgba(255, 255, 255, 0);
+        }
+        }
+
+        @media (min-width: 1140px) and (max-width: 1280px) {
+          .uk-scope .uk-open>.uk-modal-dialog {
+            transform: scale(0.65);
+            transform-origin: 50% 8%;
+          }
+        }
+
+        @media (min-width: 1366px) {
+          .uk-scope .uk-open>.uk-modal-dialog {
+            transform: scale(0.9);
+            transform-origin: 50% 50%;
+          }
+        }
+
+
+        .isTVGuideModal h2,
+          .isTVGuideModal p {
+            margin: 0 !important;
+          }
+            
+          .isTVGuideModal a {
+            color: #fff !important;
+            text-decoration: underline !important;
+          }
+        @media (max-width: 696px) {
+          .isTVGuideModal div:first-child {
+            transform: initial !important;
+          }
+
+            .isTVGuideModal .w-full.h-full {
+            background: transparent !important;
+            border: none !important;
+          }
+        }
+      </style><div class="uk-hidden uk-flex-bottom drawer-modal" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:1000;background-color:rgba(0, 0, 0, 0.85);will-change:auto;transform:translateZ(0)"><div class="uk-modal-dialog uk-modal-body "><button class="uk-modal-close-outside" type="button"><span class="uk-icon "></span></button></div></div></div></div><!--$?--><template id="B:1"></template><!--/$--></main><footer class="w-full text-white" style="background:linear-gradient(96deg, #2D1321 0%, #16152C 100%)"><div class="w-full pb-9 pt-12 md:pb-2 md:pt-16 lg:pt-20"><div class="lg:mx-16 mx-auto px-6 md:px-12 lg:px-3 lg:flex lg:items-start lg:gap-16"><div class="lg:flex-1"><div class="grid grid-cols-3 md:grid-cols-4 gap-4 lg:gap-8 mb-8 lg:mb-0"><div class="text-start"><img alt="OSN Logo" loading="lazy" width="80" height="40" decoding="async" data-nimg="1" class="mb-4 md:w-[100px] md:h-[50px] lg:w-[120px] lg:h-[60px]" style="color:transparent" src="/osn/webapp/images/icons/menu/osn-logo.svg"/></div><div class="text-start"><h3 class="text-white text-base lg:text-[18px] font-light mb-4">footer_about_us</h3><ul class="space-y-2"><li><a class="text-white/80 hover:text-white transition-colors text-xs lg:text-[14px] font-light" href="/ar-sa/explore/advertise">footer_advertise_with_us</a></li></ul></div><div class="text-start"><h3 class="text-white text-base lg:text-[18px] font-light mb-4">footer_quick_links</h3><ul class="space-y-2"><li><a class="text-white/80 hover:text-white transition-colors text-xs lg:text-[14px] font-light" href="/ar-sa/home">footer_osn_hub</a></li><li><a href="https://osnplus.com/ar-sa" target="_blank" rel="noopener noreferrer" class="text-white/80 hover:text-white transition-colors text-xs lg:text-[14px] font-light">footer_osn_plus</a></li><li><a class="text-white/80 hover:text-white transition-colors text-xs lg:text-[14px] font-light" href="/ar-sa/business">footer_osn_for_business</a></li></ul></div><div class="hidden md:block text-start"><h3 class="text-white text-base lg:text-[18px] font-light mb-4">footer_need_help</h3><ul class="space-y-2"><li><a href="https://feedback.osn.com/?lang=en" class="text-white/80 hover:text-white transition-colors text-xs lg:text-[15.75px] font-light inline-flex items-center gap-2"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/faq.svg"/>footer_faqs</a></li><li><a href="/ar-sa/submit-request" class="text-white/80 hover:text-white transition-colors text-xs lg:text-[15.75px] font-light inline-flex items-center gap-2"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/contact-us.svg"/>footer_contact_us</a></li><li><a href="#" class="text-white/80 hover:text-white transition-colors text-xs lg:text-[15.75px] font-light inline-flex items-center gap-2"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/chat-with-us.svg"/>footer_chat_with_us</a></li><li><a class="text-white/80 hover:text-white transition-colors text-xs lg:text-[15.75px] font-light inline-flex items-center gap-2" href="/ar-sa/find-a-store"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/find-a-store.svg"/>footer_find_a_store</a></li></ul></div></div></div><div class="text-center mb-10 md:mb-0 lg:mb-0 lg:text-start lg:w-[380px] lg:flex-shrink-0"><p class="text-white/80 text-base lg:text-[18px] font-light mb-4">footer_follow_us</p><div class="flex items-center justify-center lg:justify-start gap-2 md:gap-3 mb-6"><a href="https://www.facebook.com/OSNtvOfficial" target="_blank" rel="nofollow" class="w-8 h-8 md:w-10 md:h-10 lg:w-12 lg:h-12 rounded-full bg-white/10 flex items-center justify-center transition-all"><div class="scale-75 md:scale-90"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor"><path d="M11,10h2.6l0.4-3H11V5.3c0-0.9,0.2-1.5,1.5-1.5H14V1.1c-0.3,0-1-0.1-2.1-0.1C9.6,1,8,2.4,8,5v2H5.5v3H8v8h3V10z"></path></svg></div></a><a href="https://www.instagram.com/osntvofficial/" target="_blank" rel="nofollow" class="w-8 h-8 md:w-10 md:h-10 lg:w-12 lg:h-12 rounded-full bg-white/10 flex items-center justify-center transition-all"><div class="scale-75 md:scale-90"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor"><path d="M13.55,1H6.46C3.45,1,1,3.44,1,6.44v7.12c0,3,2.45,5.44,5.46,5.44h7.08c3.02,0,5.46-2.44,5.46-5.44V6.44 C19.01,3.44,16.56,1,13.55,1z M17.5,14c0,1.93-1.57,3.5-3.5,3.5H6c-1.93,0-3.5-1.57-3.5-3.5V6c0-1.93,1.57-3.5,3.5-3.5h8 c1.93,0,3.5,1.57,3.5,3.5V14z"></path><circle cx="14.87" cy="5.26" r="1.09"></circle><path d="M10.03,5.45c-2.55,0-4.63,2.06-4.63,4.6c0,2.55,2.07,4.61,4.63,4.61c2.56,0,4.63-2.061,4.63-4.61 C14.65,7.51,12.58,5.45,10.03,5.45L10.03,5.45L10.03,5.45z M10.08,13c-1.66,0-3-1.34-3-2.99c0-1.65,1.34-2.99,3-2.99s3,1.34,3,2.99 C13.08,11.66,11.74,13,10.08,13L10.08,13L10.08,13z"></path></svg></div></a><a href="https://www.tiktok.com/@osntvofficial" target="_blank" rel="nofollow" class="w-8 h-8 md:w-10 md:h-10 lg:w-12 lg:h-12 rounded-full bg-white/10 flex items-center justify-center transition-all"><div class="scale-75 md:scale-90"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor"><path d="M17.24,6V8.82a6.79,6.79,0,0,1-4-1.28v5.81A5.26,5.26,0,1,1,8,8.1a4.36,4.36,0,0,1,.72.05v2.9A2.57,2.57,0,0,0,7.64,11a2.4,2.4,0,1,0,2.77,2.38V2h2.86a4,4,0,0,0,1.84,3.38A4,4,0,0,0,17.24,6Z"></path></svg></div></a><a href="https://youtube.com/channel/UCyXHFI-oMNEBF5QxTdLHYaQ" target="_blank" rel="nofollow" class="w-8 h-8 md:w-10 md:h-10 lg:w-12 lg:h-12 rounded-full bg-white/10 flex items-center justify-center transition-all"><div class="scale-75 md:scale-90"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor"><path d="M15,4.1c1,0.1,2.3,0,3,0.8c0.8,0.8,0.9,2.1,0.9,3.1C19,9.2,19,10.9,19,12c-0.1,1.1,0,2.4-0.5,3.4c-0.5,1.1-1.4,1.5-2.5,1.6 c-1.2,0.1-8.6,0.1-11,0c-1.1-0.1-2.4-0.1-3.2-1c-0.7-0.8-0.7-2-0.8-3C1,11.8,1,10.1,1,8.9c0-1.1,0-2.4,0.5-3.4C2,4.5,3,4.3,4.1,4.2 C5.3,4.1,12.6,4,15,4.1z M8,7.5v6l5.5-3L8,7.5z"></path></svg></div></a><a href="https://t.snapchat.com/PqqnCq5L" target="_blank" rel="nofollow" class="w-8 h-8 md:w-10 md:h-10 lg:w-12 lg:h-12 rounded-full bg-white/10 flex items-center justify-center transition-all"><div class="scale-75 md:scale-90"><svg width="20" height="20" viewBox="0 0 235.541 221.76" fill="currentColor"><g data-name="Group 1"><path data-name="Path 1" d="M125.76,17.12A69.734,69.734,0,0,0,98.4,23.04c-11.62,5.14-24.18,14.94-32,32.48-5.9,13.22-4.16,32.46-3.2,47.84.08,1.14.1,2.12.16,3.2-.48.22-.06.32-1.6.32-2.32,0-5.42-.76-9.28-2.56a11.2,11.2,0,0,0-4.8-.96,16.092,16.092,0,0,0-8.32,2.4,11.3,11.3,0,0,0-5.6,7.52A10.726,10.726,0,0,0,36,121.6c2.18,2.72,5.56,4.94,10.88,7.04,1.16.46,2.34.9,3.52,1.28a46.035,46.035,0,0,1,7.36,2.72,8.326,8.326,0,0,1,3.84,3.52c.48,1.12.62,2.86-.96,6.08a2.385,2.385,0,0,0-.16.32c-.02.08-.1.14-.16.32-.64,1.44-14.66,32-43.84,36.8a7.393,7.393,0,0,0-6.24,7.68,10.3,10.3,0,0,0,.8,3.2c1.42,3.34,4.46,5.8,9.44,8,4.6,2.04,11.76,3.84,21.28,5.44a35.859,35.859,0,0,1,.96,3.68c0,.04-.02.12,0,.16.36,1.66.7,3.48,1.28,5.44a8.694,8.694,0,0,0,3.84,4.96,8.972,8.972,0,0,0,4.48,1.12,28.992,28.992,0,0,0,5.76-.8,58.04,58.04,0,0,1,11.68-1.28,52.069,52.069,0,0,1,8.32.64c4.86.8,9.64,3.96,15.36,8,8.28,5.86,18.22,12.96,33.12,12.96.26,0,.54-.14.8-.16.26.02.54,0,.8,0,.42.02.86.16,1.28.16,14.9,0,24.82-7.1,33.12-12.96,5.7-4.04,10.5-7.2,15.36-8a52.069,52.069,0,0,1,8.32-.64,58.42,58.42,0,0,1,11.84,1.28,27.61,27.61,0,0,0,5.6.64H204a8.346,8.346,0,0,0,4.96-1.6,8.554,8.554,0,0,0,3.04-4.32c.58-1.96.9-3.84,1.28-5.6a33.46,33.46,0,0,1,.96-3.68c9.52-1.6,16.68-3.4,21.28-5.44,4.98-2.2,8.02-4.68,9.44-8a9.535,9.535,0,0,0,.8-3.2,7.423,7.423,0,0,0-6.24-7.68c-14.72-2.42-25.52-11.28-32.8-19.84a76.151,76.151,0,0,1-11.04-17.12v-.16a2.384,2.384,0,0,0-.16-.32c-1.6-3.22-1.6-4.94-1.12-6.08a8.326,8.326,0,0,1,3.84-3.52,45.331,45.331,0,0,1,7.36-2.72c1.2-.38,2.4-.84,3.52-1.28,4.66-1.84,7.86-3.76,10.08-6.08a11.1,11.1,0,0,0,3.2-7.68c-.1-5.24-4-8.72-8.48-10.4l-.16-.16c-.04-.02-.12.02-.16,0a15.381,15.381,0,0,0-5.76-1.12,11.907,11.907,0,0,0-5.44,1.12,24.263,24.263,0,0,1-8.64,2.56h-.16c-.14,0-.04.02-.16,0-.66-.08-.46-.2-.8-.32.06-.88.1-1.66.16-2.56v-.64c.98-15.38,2.7-34.6-3.2-47.84-7.82-17.54-20.36-27.5-32-32.64a68.8,68.8,0,0,0-27.36-5.76h-4.48Z" transform="translate(-10.229 -17.12)"></path></g></svg></div></a><a href="https://twitter.com/osntvofficial" target="_blank" rel="nofollow" class="w-8 h-8 md:w-10 md:h-10 lg:w-12 lg:h-12 rounded-full bg-white/10 flex items-center justify-center transition-all"><div class="scale-75 md:scale-90"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor"><path d="M19,4.74 C18.339,5.029 17.626,5.229 16.881,5.32 C17.644,4.86 18.227,4.139 18.503,3.28 C17.79,3.7 17.001,4.009 16.159,4.17 C15.485,3.45 14.526,3 13.464,3 C11.423,3 9.771,4.66 9.771,6.7 C9.771,6.99 9.804,7.269 9.868,7.539 C6.795,7.38 4.076,5.919 2.254,3.679 C1.936,4.219 1.754,4.86 1.754,5.539 C1.754,6.82 2.405,7.95 3.397,8.61 C2.79,8.589 2.22,8.429 1.723,8.149 L1.723,8.189 C1.723,9.978 2.997,11.478 4.686,11.82 C4.376,11.899 4.049,11.939 3.713,11.939 C3.475,11.939 3.245,11.919 3.018,11.88 C3.49,13.349 4.852,14.419 6.469,14.449 C5.205,15.429 3.612,16.019 1.882,16.019 C1.583,16.019 1.29,16.009 1,15.969 C2.635,17.019 4.576,17.629 6.662,17.629 C13.454,17.629 17.17,12 17.17,7.129 C17.17,6.969 17.166,6.809 17.157,6.649 C17.879,6.129 18.504,5.478 19,4.74"></path></svg></div></a></div><p class="text-white text-base lg:text-[18px] font-light mb-3">footer_payment_options</p><div class="flex items-center justify-center lg:justify-start gap-2 md:gap-3 flex-wrap"><img alt="Visa" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fvisa-mop-icon1.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fvisa-mop-icon1.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fvisa-mop-icon1.png&amp;w=96&amp;q=75"/><img alt="Mastercard" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fmastercard-mop-icon.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fmastercard-mop-icon.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fmastercard-mop-icon.png&amp;w=96&amp;q=75"/><img alt="Apple Pay" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fapplepay-mop-icon.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fapplepay-mop-icon.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fapplepay-mop-icon.png&amp;w=96&amp;q=75"/><img alt="PayPal" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fpaypal-mop-icon-footer.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fpaypal-mop-icon-footer.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fpaypal-mop-icon-footer.png&amp;w=96&amp;q=75"/><img alt="American Express" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Famericanexpress-mop-icon.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Famericanexpress-mop-icon.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Famericanexpress-mop-icon.png&amp;w=96&amp;q=75"/><img alt="Tabby" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Ftabby-mop-icon.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Ftabby-mop-icon.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Ftabby-mop-icon.png&amp;w=96&amp;q=75"/><img alt="Mada" loading="lazy" width="34" height="20" decoding="async" data-nimg="1" class="rounded md:w-[40px] md:h-[24px]" style="color:transparent" srcSet="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fmada-mop-icon.png&amp;w=48&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fmada-mop-icon.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=https%3A%2F%2Fwww.osn.com%2Fosn%2Fmedia%2FOSNMedia%2Fosntv%2Fimages%2Ficons%2Fmada-mop-icon.png&amp;w=96&amp;q=75"/></div></div></div><div class="md:hidden max-w-[1440px] mx-auto px-6 lg:px-3"><h3 class="text-white text-base font-light mb-6 text-center">footer_need_help</h3><div class="grid grid-cols-2 gap-y-6 gap-x-8 w-full max-w-[270px] mx-auto ps-4"><a href="https://feedback.osn.com/?lang=en" class="text-white/80 hover:text-white transition-colors text-sm font-light inline-flex items-center gap-2"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/faq.svg"/>footer_faqs</a><a href="/ar-sa/submit-request" class="text-white/80 hover:text-white transition-colors text-sm font-light inline-flex items-center gap-2"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/contact-us.svg"/>footer_contact_us</a><a href="#" class="text-white/80 hover:text-white transition-colors text-sm font-light inline-flex items-center gap-2"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/chat-with-us.svg"/>footer_chat_with_us</a><a class="text-white/80 hover:text-white transition-colors text-sm font-light inline-flex items-center gap-2" href="/ar-sa/find-a-store"><img alt="" loading="lazy" width="14" height="14" decoding="async" data-nimg="1" class="flex-shrink-0" style="color:transparent" src="https://www.osn.com/osn/media/OSNMedia/osntv/images/icons/find-a-store.svg"/>footer_find_a_store</a></div></div></div><div class="w-full pt-4 md:pt-6 pb-20 md:pb-12"><div class="max-w-[1440px] mx-auto px-6 md:px-12 lg:px-20"><div class="text-center text-xs text-white/60 font-light"><div class="hidden md:flex items-center justify-center gap-3"><a class="hover:text-white transition-colors" target="_blank" rel="noopener noreferrer" href="/ar-sa/terms-and-conditions">footer_terms_and_conditions</a><span>|</span><a class="hover:text-white transition-colors" target="_blank" rel="noopener noreferrer" href="/ar-sa/privacy-policy">footer_privacy_and_cookie_policy</a><span>|</span><a class="hover:text-white transition-colors" href="/ar-sa/watch/hot-topics">footer_top_stories</a><span>|</span><a class="hover:text-white transition-colors" href="/ar-sa/corporate/press-releases">footer_press_releases</a><span>|</span><a class="hover:text-white transition-colors" href="/ar-sa/sitemap">footer_sitemap</a></div><div class="md:hidden flex flex-col items-center gap-1"><div class="flex items-center gap-3"><a class="hover:text-white transition-colors" target="_blank" rel="noopener noreferrer" href="/ar-sa/terms-and-conditions">footer_terms_and_conditions</a><span>|</span><a class="hover:text-white transition-colors" target="_blank" rel="noopener noreferrer" href="/ar-sa/privacy-policy">footer_privacy_and_cookie_policy</a></div><div class="flex items-center gap-3"><a class="hover:text-white transition-colors" href="/ar-sa/watch/hot-topics">footer_top_stories</a><span>|</span><a class="hover:text-white transition-colors" href="/ar-sa/corporate/press-releases">footer_press_releases</a><span>|</span><a class="hover:text-white transition-colors" href="/ar-sa/sitemap">footer_sitemap</a></div></div><p class="text-center text-xs text-white/60 font-light mt-4">footer_copyright</p><p class="text-center text-[10px] text-white/30 font-light mt-2">v1.1.0 | Build:<!-- --> <!-- -->20/07/2026, 07:34</p></div></div></div></footer></div><script>requestAnimationFrame(function(){$RT=performance.now()});</script><script src="/_next/static/chunks/e486f43878096201.js" id="_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n2:I[39756,[\"/_next/static/chunks/ff1a16fafef87110.js\",\"/_next/static/chunks/247eb132b7f7b574.js\"],\"default\"]\n3:I[37457,[\"/_next/static/chunks/ff1a16fafef87110.js\",\"/_next/static/chunks/247eb132b7f7b574.js\"],\"default\"]\n4:I[22016,[\"/_next/static/chunks/7f27f9630a007744.js\"],\"\"]\n7:I[97367,[\"/_next/static/chunks/ff1a16fafef87110.js\",\"/_next/static/chunks/247eb132b7f7b574.js\"],\"OutletBoundary\"]\n8:\"$Sreact.suspense\"\na:I[97367,[\"/_next/static/chunks/ff1a16fafef87110.js\",\"/_next/static/chunks/247eb132b7f7b574.js\"],\"ViewportBoundary\"]\nc:I[97367,[\"/_next/static/chunks/ff1a16fafef87110.js\",\"/_next/static/chunks/247eb132b7f7b574.js\"],\"MetadataBoundary\"]\ne:I[68027,[],\"default\"]\nf:I[27629,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\",\"/_next/static/chunks/d68616630ffe70ec.js\",\"/_next/static/chunks/da9381996ce307d9.js\",\"/_next/static/chunks/5c9b6221c2fb5544.js\",\"/_next/static/chunks/4e8dd632a1600de3.js\"],\"CleverTapTracker\"]\n10:I[95532,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\",\"/_next/static/chunks/d68616630ffe70ec.js\",\"/_next/static/chunks/da9381996ce307d9.js\",\"/_next/static/chunks/5c9b6221c2fb5544.js\",\"/_next/static/chunks/4e8dd632a1600de3.js\"],\"InitLeadOnMount\"]\n11:I[64565,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\",\"/_next/static/chunks/d68616630ffe70ec.js\",\"/_next/static/chunks/da9381996ce307d9.js\",\"/_next/static/chunks/5c9b6221c2fb5544.js\",\"/_next/static/chunks/4e8dd632a1600de3.js\"],\"default\"]\n:HL[\"/_next/static/chunks/120837c565f78f71.css\",\"style\"]\n:HL[\"/_next/static/chunks/fcf8be9fb5238f3e.css\",\"style\"]\n"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"b\":\"g5n_vsKLg6-5DnxJ0Nu1I\",\"c\":[\"\",\"ar-sa\",\"watch\",\"tv-schedule\"],\"q\":\"\",\"i\":false,\"f\":[[[\"\",{\"children\":[[\"locale\",\"ar-sa\",\"d\"],{\"children\":[\"watch\",{\"children\":[\"tv-schedule\",{\"children\":[\"__PAGE__\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/120837c565f78f71.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]],[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[\"$\",\"body\",null,{\"className\":\"antialiased\",\"children\":[\"$\",\"main\",null,{\"className\":\"flex min-h-screen flex-col items-center justify-center gap-5 px-6 text-center\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"text-5xl font-extrabold text-white\",\"children\":\"404\"}],[\"$\",\"p\",null,{\"className\":\"text-base text-white/70\",\"children\":\"This page could not be found.\"}],[\"$\",\"$L4\",null,{\"href\":\"/en-ae\",\"className\":\"mt-2 rounded-xl bg-white/10 px-6 py-3 text-sm font-bold text-white transition-colors hover:bg-white/15\",\"children\":\"Back to home\"}]]}]}]}],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/fcf8be9fb5238f3e.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/5732029b1c54dfed.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/efe244e9db82305e.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-2\",{\"src\":\"/_next/static/chunks/36991b775e421e52.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-3\",{\"src\":\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-4\",{\"src\":\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-5\",{\"src\":\"/_next/static/chunks/708c05660567ea97.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-6\",{\"src\":\"/_next/static/chunks/b8c70e98fbe30c5a.js\",\"async\":true,\"nonce\":\"$undefined\"}]],\"$L5\"]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[\"$L6\",[[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/d68616630ffe70ec.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/da9381996ce307d9.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-2\",{\"src\":\"/_next/static/chunks/5c9b6221c2fb5544.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-3\",{\"src\":\"/_next/static/chunks/4e8dd632a1600de3.js\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"$L7\",null,{\"children\":[\"$\",\"$8\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@9\"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",\"$La\",null,{\"children\":\"$@b\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$Lc\",null,{\"children\":[\"$\",\"$8\",null,{\"name\":\"Next.Metadata\",\"children\":\"$@d\"}]}]}],null]}],false]],\"m\":\"$undefined\",\"G\":[\"$e\",[]],\"S\":false}\n"])</script><script>self.__next_f.push([1,"6:[[\"$\",\"$Lf\",null,{\"locale\":\"ar-sa\",\"eventName\":\"TV Guide View\"}],[\"$\",\"$L10\",null,{\"landingPage\":\"watch/tv-schedule\"}],[\"$\",\"div\",null,{\"className\":\"uk-scope tv-schedule-page\",\"children\":[\"$\",\"$L11\",null,{}]}]]\nb:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n"])</script><script>self.__next_f.push([1,"12:I[79520,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"\"]\n:HL[\"/osn/webapp/stylesheet/fonts/FrutigerLTArabic-55Roman.woff2\",\"font\",{\"crossOrigin\":\"anonymous\",\"type\":\"font/woff2\"}]\n:HL[\"/osn/webapp/stylesheet/fonts/FrutigerLTArabic-65Bold.woff2\",\"font\",{\"crossOrigin\":\"anonymous\",\"type\":\"font/woff2\"}]\n:HL[\"/osn/webapp/stylesheet/fonts-ar.css?v=1\",\"style\"]\n13:T63d,"])</script><script>self.__next_f.push([1,"\n              (function() {\n                var lang = document.documentElement.lang || '';\n                var isEnglish = lang.indexOf('en') === 0;\n                var chatbotLang = isEnglish ? 'English' : 'Arabic';\n                var chatbotId = isEnglish\n                  ? '9cab9e48-424a-4320-b2af-5af4210aba2a'\n                  : '9aebba0a-32d7-484e-b348-d0f81383cd8a';\n                var isDeflectionCall = window.location.href.indexOf('utm_source=genesys') \u003e 0 ? 'Y' : 'N';\n\n                (function(g, e, n, es, ys) {\n                  g['_genesysJs'] = e;\n                  g[e] = g[e] || function() {\n                    (g[e].q = g[e].q || []).push(arguments);\n                  };\n                  g[e].t = 1 * new Date();\n                  g[e].c = es;\n                  ys = document.createElement('script');\n                  ys.async = 1;\n                  ys.src = n;\n                  ys.charset = 'utf-8';\n                  document.head.appendChild(ys);\n\n                  g[e]('command', 'Database.set', {\n                    messaging: {\n                      customAttributes: {\n                        TouchPoint: 'Website',\n                        language: chatbotLang,\n                        IsDeflectionCall: isDeflectionCall\n                      }\n                    }\n                  });\n                })(window, 'Genesys',\n                  'https://apps.mypurecloud.de/genesys-bootstrap/genesys.min.js', {\n                    environment: 'prod-euc1',\n                    deploymentId: chatbotId\n                  });\n              })();\n            "])</script><script>self.__next_f.push([1,"5:[\"$\",\"html\",null,{\"lang\":\"ar-sa\",\"dir\":\"rtl\",\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",null,{\"name\":\"format-detection\",\"content\":\"telephone=no, date=no, email=no, address=no\"}],[[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"/osn/webapp/stylesheet/fonts/FrutigerLTArabic-55Roman.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"crossOrigin\":\"anonymous\"}],[\"$\",\"link\",null,{\"rel\":\"preload\",\"href\":\"/osn/webapp/stylesheet/fonts/FrutigerLTArabic-65Bold.woff2\",\"as\":\"font\",\"type\":\"font/woff2\",\"crossOrigin\":\"anonymous\"}]],[\"$\",\"link\",null,{\"rel\":\"stylesheet\",\"href\":\"/osn/webapp/stylesheet/fonts-ar.css?v=1\"}],[\"$\",\"$L12\",null,{\"id\":\"disable-console\",\"strategy\":\"beforeInteractive\",\"dangerouslySetInnerHTML\":{\"__html\":\"\\n              (function() {\\n                var isDev = true;\\n                if (!isDev) {\\n                  ['log', 'warn', 'debug', 'info', 'trace'].forEach(function(m) {\\n                    console[m] = function() {};\\n                  });\\n                }\\n              })();\\n            \"}}],[\"$\",\"$L12\",null,{\"id\":\"gtm-script\",\"strategy\":\"afterInteractive\",\"dangerouslySetInnerHTML\":{\"__html\":\"\\n              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\\n              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\\n              j=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\\n              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\\n              })(window,document,'script','dataLayer','GTM-WS3MCJ');\\n            \"}}],[\"$\",\"$L12\",null,{\"id\":\"clevertap-script\",\"strategy\":\"afterInteractive\",\"dangerouslySetInnerHTML\":{\"__html\":\"\\n              var clevertap = {event:[], profile:[], account:[], onUserLogin:[], notifications:[], privacy:[]};\\n              clevertap.account.push({\\\"id\\\": \\\"6Z4-657-Z96Z\\\"}, \\\"eu1\\\");\\n              clevertap.privacy.push({optOut: false});\\n              clevertap.privacy.push({useIP: false});\\n              (function () {\\n                var wzrk = document.createElement('script');\\n                wzrk.type = 'text/javascript';\\n                wzrk.async = true;\\n                wzrk.src = ('https:' == document.location.protocol ? 'https://d2r1yp2w7bby2u.cloudfront.net' : 'http://static.clevertap.com') + '/js/clevertap.min.js';\\n                var s = document.getElementsByTagName('script')[0];\\n                s.parentNode.insertBefore(wzrk, s);\\n              })();\\n            \"}}],[\"$\",\"$L12\",null,{\"id\":\"genesys-script\",\"strategy\":\"afterInteractive\",\"dangerouslySetInnerHTML\":{\"__html\":\"$13\"}}]]}],\"$L14\"]}]\n"])</script><script>self.__next_f.push([1,"15:I[19768,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"default\"]\n16:I[8911,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"default\"]\n17:I[45075,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"default\"]\n18:I[1961,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"LocaleProvider\"]\n19:I[49724,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"CountryProvider\"]\n1a:I[3765,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"VideoPlayerProvider\"]\n1b:I[60770,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"HeaderDataProvider\"]\n"])</script><script>self.__next_f.push([1,"14:[\"$\",\"body\",null,{\"className\":\"antialiased\",\"suppressHydrationWarning\":true,\"children\":[[\"$\",\"$L15\",null,{}],[\"$\",\"$L16\",null,{}],[\"$\",\"$L17\",null,{\"locale\":\"ar-sa\"}],[\"$\",\"$L18\",\"ar-sa\",{\"initialLocale\":\"ar-sa\",\"children\":[\"$\",\"$L19\",null,{\"children\":[\"$\",\"$L1a\",null,{\"children\":[\"$\",\"$L1b\",null,{\"headerData\":{\"defaultHeaderPosition\":\"sticky\",\"menuItems\":[{\"id\":\"63cb8ee4-ea3a-4360-8482-d25e16d5025d\",\"codename\":\"osntv\",\"displayTitle\":\"OSNtv\",\"metaTitle\":\"أفضل ترفيه تلفزيوني - أفلام ومسلسلات تلفزيونية\",\"url\":\"/osntv\",\"headerPosition\":\"sticky\",\"hasDropdown\":false,\"subpages\":[]},{\"id\":\"fc2c520b-d8ee-4b96-9b38-54bce2911e18\",\"codename\":\"packages\",\"displayTitle\":\"الباقات\",\"metaTitle\":\"Packages\",\"url\":\"$undefined\",\"headerPosition\":\"sticky\",\"hasDropdown\":true,\"subpages\":[{\"id\":\"6ffaf56f-bc85-44e8-991d-55b8cc948b0d\",\"codename\":\"osntv_connect\",\"displayTitle\":\"OSNtv Connect\",\"metaTitle\":\"OSNtv Connect\",\"url\":\"/tv-packages/osntv-connect\",\"iccPackageId\":\"osntv-connect\",\"countryEntitlement\":[\"country_list___uae\",\"country_list___bahrain\",\"country_list___saudi_arabia\",\"country_list___kuwait\",\"country_list___oman\",\"country_list___qatar\"],\"showInTradeLayer\":true,\"showInNavigation\":true,\"usps\":\"\u003cul\u003e\\n  \u003cli\u003eأكثر من 45 قناة حصرية\u003c/li\u003e\\n  \u003cli\u003eمجموعة واسعة من القنوات الإقليمية المفتوحة\u003c/li\u003e\\n  \u003cli\u003eجودة سينمائية بدقة ‎4K‎ فائقة الوضوح\u003c/li\u003e\\n  \u003cli\u003eأحدث الأفلام المتوفرة للشراء أو الاستئجار\u003c/li\u003e\\n  \u003cli\u003e\u0026lt;image\u0026gt;https://assets-us-01.kc-usercontent.com:443/6d8ae779-5996-0029-636d-49dc1cce891c/8c1cae5f-c961-40dd-92e2-4b2e07b77a2f/osnplus_logo.png\u0026lt;/image\u0026gt; استمتع بترفيه لا نهاية له في أي وقت وأي مكان م\u003c/li\u003e\\n\u003c/ul\u003e\"},{\"id\":\"025881e3-29a8-48c5-a765-536f01357d35\",\"codename\":\"osntv_prime\",\"displayTitle\":\"OSNtv Prime\",\"metaTitle\":\"OSNtv Prime\",\"url\":\"/tv-packages/osntv-prime\",\"iccPackageId\":\"osntv-prime\",\"countryEntitlement\":[\"country_list___uae\",\"country_list___bahrain\",\"country_list___saudi_arabia\",\"country_list___kuwait\",\"country_list___oman\",\"country_list___qatar\"],\"showInTradeLayer\":true,\"showInNavigation\":true,\"usps\":\"\u003cul\u003e\\n  \u003cli\u003eأكثر من 45 قناة حصرية\u003c/li\u003e\\n  \u003cli\u003eمجموعة واسعة من القنوات الإقليمية المفتوحة\u003c/li\u003e\\n  \u003cli\u003eجودة سينمائية بدقة ‎4K‎ فائقة الوضوح\u003c/li\u003e\\n  \u003cli\u003eأحدث الأفلام المتوفرة للشراء أو الاستئجار\u003c/li\u003e\\n\u003c/ul\u003e\"},{\"id\":\"ccb24ab5-021b-421c-8002-b2f830a81120\",\"codename\":\"osn_home_premium\",\"displayTitle\":\"OSN Home Premium\",\"metaTitle\":\"OSN Home Premium\",\"url\":\"/tv-packages/osn-home-premium\",\"iccPackageId\":\"osn-home-premium\",\"countryEntitlement\":[\"country_list___jordan\",\"country_list___lebanon\",\"country_list___iraq\",\"country_list___algeria\",\"country_list___libya\",\"country_list___morocco\",\"country_list___palestine\",\"country_list___chad\",\"country_list___yemen\",\"country_list___mauritania\"],\"showInTradeLayer\":true,\"showInNavigation\":true,\"usps\":\"\u003cul\u003e\\n  \u003cli\u003e48 قناة حصرية\u003c/li\u003e\\n  \u003cli\u003eقنوات محلية مجانية\u003c/li\u003e\\n  \u003cli\u003eOSN+ متضمن\u003c/li\u003e\\n  \u003cli\u003eخاصية الإشراف العائلي\u003c/li\u003e\\n  \u003cli\u003eدليل عرض البرنامج على 7 أيام\u003c/li\u003e\\n\u003c/ul\u003e\"},{\"id\":\"314f1148-f8e8-4e0e-9683-8a276a9602f5\",\"codename\":\"osn_home\",\"displayTitle\":\"OSN Home\",\"metaTitle\":\"OSN Home\",\"url\":\"/tv-packages/osn-home\",\"iccPackageId\":\"osn-home\",\"countryEntitlement\":[\"country_list___jordan\",\"country_list___lebanon\",\"country_list___iraq\",\"country_list___algeria\",\"country_list___libya\",\"country_list___morocco\",\"country_list___palestine\",\"country_list___chad\",\"country_list___yemen\",\"country_list___mauritania\"],\"showInTradeLayer\":true,\"showInNavigation\":true,\"usps\":\"\u003cul\u003e\\n  \u003cli\u003e41 قناة حصرية\u003c/li\u003e\\n  \u003cli\u003eقنوات محلية مجانية\u003c/li\u003e\\n  \u003cli\u003eخاصية الإشراف العائلي\u003c/li\u003e\\n  \u003cli\u003eدليل عرض البرنامج على 7 أيام\u003c/li\u003e\\n\u003c/ul\u003e\"},{\"id\":\"496b3671-8467-4ce4-a949-c5f20e6900e1\",\"codename\":\"el_kul\",\"displayTitle\":\"El Kul\",\"metaTitle\":\"El Kul\",\"url\":\"/tv-packages/elkul\",\"iccPackageId\":\"el-kul\",\"countryEntitlement\":[\"country_list___egypt\"],\"showInTradeLayer\":true,\"showInNavigation\":true,\"usps\":\"\u003cul\u003e\\n  \u003cli\u003eأكثر من 48 قناة حصرية\u003c/li\u003e\\n  \u003cli\u003eقنوات محلية مجانية\u003c/li\u003e\\n  \u003cli\u003eOSN+ متضمن\u003c/li\u003e\\n  \u003cli\u003eخاصية الإشراف العائلي\u003c/li\u003e\\n  \u003cli\u003eدليل عرض البرنامج على 7 أيام\u003c/li\u003e\\n\u003c/ul\u003e\"},{\"id\":\"24be1f0e-38af-4633-87b8-694eb91f3f55\",\"codename\":\"package_alfa\",\"displayTitle\":\"Alfa\",\"metaTitle\":\"Alfa\",\"url\":\"/tv-packages/alfa\",\"iccPackageId\":\"alfa\",\"countryEntitlement\":[\"country_list___qatar\",\"country_list___palestine\",\"country_list___algeria\",\"country_list___oman\",\"country_list___bahrain\",\"country_list___yemen\",\"country_list___lebanon\",\"country_list___chad\",\"country_list___egypt\",\"country_list___mauritania\",\"country_list___libya\",\"country_list___uae\",\"country_list___morocco\",\"country_list___kuwait\",\"country_list___jordan\",\"country_list___iraq\",\"country_list___saudi_arabia\"],\"showInTradeLayer\":false,\"showInNavigation\":true,\"usps\":\"\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\"},{\"id\":\"d08ac3c8-b0e1-4e44-a37b-65738c74dc9e\",\"codename\":\"package_pinoy\",\"displayTitle\":\"Pinoy\",\"metaTitle\":\"Pinoy\",\"url\":\"/tv-packages/pinoy\",\"iccPackageId\":\"pinoy\",\"countryEntitlement\":[\"country_list___qatar\",\"country_list___palestine\",\"country_list___algeria\",\"country_list___oman\",\"country_list___bahrain\",\"country_list___yemen\",\"country_list___lebanon\",\"country_list___chad\",\"country_list___egypt\",\"country_list___mauritania\",\"country_list___libya\",\"country_list___uae\",\"country_list___morocco\",\"country_list___kuwait\",\"country_list___jordan\",\"country_list___iraq\",\"country_list___saudi_arabia\"],\"showInTradeLayer\":false,\"showInNavigation\":true,\"usps\":\"\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\"},{\"id\":\"5bf5dee3-bed3-4532-9c3b-6b299f5f7fe6\",\"codename\":\"osn_tfc_plus\",\"displayTitle\":\"OSN TFC Plus\",\"metaTitle\":\"OSN TFC Plus\",\"url\":\"/tv-packages/osn-tfc-plus\",\"iccPackageId\":\"osn-tfc-plus\",\"countryEntitlement\":[\"country_list___qatar\",\"country_list___palestine\",\"country_list___algeria\",\"country_list___oman\",\"country_list___bahrain\",\"country_list___yemen\",\"country_list___lebanon\",\"country_list___chad\",\"country_list___egypt\",\"country_list___mauritania\",\"country_list___libya\",\"country_list___uae\",\"country_list___morocco\",\"country_list___kuwait\",\"country_list___jordan\",\"country_list___iraq\",\"country_list___saudi_arabia\"],\"showInTradeLayer\":false,\"showInNavigation\":false,\"usps\":\"\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\"},{\"id\":\"384fbf57-7046-468f-8e43-1a91c85f1605\",\"codename\":\"osn_pinoy_plus\",\"displayTitle\":\"OSN Pinoy Plus\",\"metaTitle\":\"OSN Pinoy Plus\",\"url\":\"/tv-packages/osn-pinoy-plus\",\"iccPackageId\":\"osn-pinoy-plus\",\"countryEntitlement\":[\"country_list___qatar\",\"country_list___palestine\",\"country_list___algeria\",\"country_list___oman\",\"country_list___bahrain\",\"country_list___yemen\",\"country_list___lebanon\",\"country_list___chad\",\"country_list___egypt\",\"country_list___mauritania\",\"country_list___libya\",\"country_list___uae\",\"country_list___morocco\",\"country_list___kuwait\",\"country_list___jordan\",\"country_list___iraq\",\"country_list___saudi_arabia\"],\"showInTradeLayer\":false,\"showInNavigation\":false,\"usps\":\"\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\"},{\"id\":\"eaa92750-ac6a-43fe-b29a-a6d0a56fd352\",\"codename\":\"osn_pinoy_plus_extra\",\"displayTitle\":\"OSN Pinoy Plus Extra\",\"metaTitle\":\"OSN Pinoy Plus Extra\",\"url\":\"/tv-packages/osn-pinoy-plus-extra\",\"iccPackageId\":\"osn-pinoy-plus-extra\",\"countryEntitlement\":[\"country_list___qatar\",\"country_list___palestine\",\"country_list___algeria\",\"country_list___oman\",\"country_list___bahrain\",\"country_list___yemen\",\"country_list___lebanon\",\"country_list___chad\",\"country_list___egypt\",\"country_list___mauritania\",\"country_list___libya\",\"country_list___uae\",\"country_list___morocco\",\"country_list___kuwait\",\"country_list___jordan\",\"country_list___iraq\",\"country_list___saudi_arabia\"],\"showInTradeLayer\":false,\"showInNavigation\":false,\"usps\":\"\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\"}]},{\"id\":\"ab29eb87-da27-459c-bacb-da7b71f7c7f6\",\"codename\":\"content_guide\",\"displayTitle\":\"دليل المحتوى\",\"metaTitle\":\"دليل المحتوى\",\"url\":\"/content-guide\",\"headerPosition\":\"sticky\",\"hasDropdown\":false,\"subpages\":[]},{\"id\":\"95a8bfca-93a6-4110-8d6a-67c61329b181\",\"codename\":\"tv_guide\",\"displayTitle\":\"دليل التلفزيون\",\"metaTitle\":\"دليل التلفزيون\",\"url\":\"/watch/tv-schedule\",\"headerPosition\":\"static\",\"hasDropdown\":false,\"subpages\":[]}]},\"children\":\"$L1c\"}]}]}]}]]}]\n"])</script><script>self.__next_f.push([1,"1d:I[89109,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"LayoutProvider\"]\n1e:I[6197,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"default\"]\n1f:I[61334,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"default\"]\n20:I[40018,[\"/_next/static/chunks/5732029b1c54dfed.js\",\"/_next/static/chunks/efe244e9db82305e.js\",\"/_next/static/chunks/36991b775e421e52.js\",\"/_next/static/chunks/c358aceaa4a41bc7.js\",\"/_next/static/chunks/b10db5f5c2ccecde.js\",\"/_next/static/chunks/708c05660567ea97.js\",\"/_next/static/chunks/b8c70e98fbe30c5a.js\"],\"default\"]\n1c:[\"$\",\"$L1d\",null,{\"children\":[\"$\",\"div\",null,{\"className\":\"min-h-screen flex flex-col\",\"children\":[[\"$\",\"$L1e\",null,{}],[\"$\",\"$L1f\",null,{\"children\":[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]}],[\"$\",\"$L20\",null,{}]]}]}]\n"])</script><script>self.__next_f.push([1,"21:I[27201,[\"/_next/static/chunks/ff1a16fafef87110.js\",\"/_next/static/chunks/247eb132b7f7b574.js\"],\"IconMark\"]\nd:[[\"$\",\"title\",\"0\",{\"children\":\"دليل التلفزيون - السعودية\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Your guide to what’s on right now and everything coming up next, live.\"}],[\"$\",\"link\",\"2\",{\"rel\":\"canonical\",\"href\":\"https://www.osn.com/ar-sa/watch/tv-schedule\"}],[\"$\",\"meta\",\"3\",{\"property\":\"og:title\",\"content\":\"دليل التلفزيون - السعودية\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:description\",\"content\":\"Your guide to what’s on right now and everything coming up next, live.\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:locale\",\"content\":\"ar-sa\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"meta\",\"7\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"8\",{\"name\":\"twitter:title\",\"content\":\"دليل التلفزيون - السعودية\"}],[\"$\",\"meta\",\"9\",{\"name\":\"twitter:description\",\"content\":\"Your guide to what’s on right now and everything coming up next, live.\"}],[\"$\",\"link\",\"10\",{\"rel\":\"icon\",\"href\":\"/favicon.ico?favicon.b63d23ad.ico\",\"sizes\":\"256x256\",\"type\":\"image/x-icon\"}],[\"$\",\"$L21\",\"11\",{}]]\n9:null\n"])</script><title>دليل التلفزيون - السعودية</title><meta name="description" content="Your guide to what’s on right now and everything coming up next, live."/><link rel="canonical" href="https://www.osn.com/ar-sa/watch/tv-schedule"/><meta property="og:title" content="دليل التلفزيون - السعودية"/><meta property="og:description" content="Your guide to what’s on right now and everything coming up next, live."/><meta property="og:locale" content="ar-sa"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="دليل التلفزيون - السعودية"/><meta name="twitter:description" content="Your guide to what’s on right now and everything coming up next, live."/><link rel="icon" href="/favicon.ico?favicon.b63d23ad.ico" sizes="256x256" type="image/x-icon"/><script >document.querySelectorAll('body link[rel="icon"], body link[rel="apple-touch-icon"]').forEach(el => document.head.appendChild(el))</script><div hidden id="S:0"></div><script>$RB=[];$RV=function(a){$RT=performance.now();for(var b=0;b<a.length;b+=2){var c=a[b],e=a[b+1];null!==e.parentNode&&e.parentNode.removeChild(e);var f=c.parentNode;if(f){var g=c.previousSibling,h=0;do{if(c&&8===c.nodeType){var d=c.data;if("/$"===d||"/&"===d)if(0===h)break;else h--;else"$"!==d&&"$?"!==d&&"$~"!==d&&"$!"!==d&&"&"!==d||h++}d=c.nextSibling;f.removeChild(c);c=d}while(c);for(;e.firstChild;)f.insertBefore(e.firstChild,c);g.data="$";g._reactRetry&&requestAnimationFrame(g._reactRetry)}}a.length=0};
+$RC=function(a,b){if(b=document.getElementById(b))(a=document.getElementById(a))?(a.previousSibling.data="$~",$RB.push(a,b),2===$RB.length&&("number"!==typeof $RT?requestAnimationFrame($RV.bind(null,$RB)):(a=performance.now(),setTimeout($RV.bind(null,$RB),2300>a&&2E3<a?2300-a:$RT+300-a)))):b.parentNode.removeChild(b)};$RC("B:0","S:0")</script><div hidden id="S:1"></div><script>$RC("B:1","S:1")</script></body></html>
